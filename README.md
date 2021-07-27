@@ -1,2 +1,2 @@
 # Angular-Shopping-Cart
-WireCube Interview
+Sample Web Cart
