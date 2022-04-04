@@ -1,2 +1,2 @@
 # Angular-Shopping-Cart
-Sample Web Cart
+A sample shopping cart application in Angular
